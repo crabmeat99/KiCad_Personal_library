@@ -1,7 +1,3 @@
-![maintenance](https://img.shields.io/maintenance/yes/2023)
-[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/xengi/donate)
-
-
 Teensy footprint library for KiCAD
 =======================================
 
